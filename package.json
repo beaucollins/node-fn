@@ -1,5 +1,5 @@
 {
-  "name": "node-fn",
+  "name": "fn",
   "version": "1.0.0",
   "description": "Utility that modifies functions.",
   "main": "fn.js",
